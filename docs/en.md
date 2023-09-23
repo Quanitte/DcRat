@@ -37,14 +37,14 @@
 - This is one of the most crucial and time-consuming steps.
 - Log in to your Beget/SprintHost account.
 
-SprintHost:
+### SprintHost:
 
 - Your domain is located in the "Websites" - "My Websites" section.
 - Go to the file manager.
 - Do not upload files to the root directory; instead, navigate to domaint/yourdomain/public_html.
 - Upload the install.php file from the Server folder, which should be extracted from the archive beforehand.
 
-Beget:
+### Beget:
 
 - You are interested in the label "Server" next to your domain name.
 - Make a note of this name.
