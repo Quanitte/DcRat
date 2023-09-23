@@ -2,9 +2,7 @@
 
 <div align="center">
  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Quanitte/-Free_DcRat-">
- <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Quanitte/Free_DcRat-">
  <img alt="Python Version" src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue">
- <img alt="GitHub" src="https://img.shields.io/github/license/Quanitte/Free_DcRat-">
 </div>
 
 <h3 align="center">Description</h3>
