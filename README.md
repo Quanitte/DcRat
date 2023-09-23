@@ -1,4 +1,4 @@
-<h2 align="center">Stink</h2>
+<h2 align="center">DcRat</h2>
 
 <div align="center">
  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FallenAstaroth/stink">
