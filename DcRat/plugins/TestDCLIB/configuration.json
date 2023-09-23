@@ -1,0 +1,11 @@
+{
+  "type": 1,
+
+  "content": {
+    "filename": "file.dclib"
+  },
+
+  "settings_preset": "Test",
+  "settings_encode": false,
+  "settings_filename": ""
+}

@@ -1,0 +1,16 @@
+{
+  "type": 2,
+
+  "content": {
+    "files": [
+    	"file.vbs"
+    ],
+    "run": [
+    	"file.vbs"
+    ]
+  },
+
+  "settings_preset": "Test",
+  "settings_encode": false,
+  "settings_filename": ""
+}
